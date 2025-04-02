@@ -2,7 +2,7 @@
 
 This code is the implementation of the paper "Conditional Diffusion Model as a Base for Cold Item Recommendation".
 
-Tested in Tensorflow 2.15
+Tested in Tensorflow 2.15 and python 3.9
 
 Required Packages: numpy, tqdm, pandas, scipy
 
