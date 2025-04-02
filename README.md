@@ -11,7 +11,8 @@ Run : move to src diretory, and
     
     -- Diffusion based generator : python _01_01_DMCIR_main__tr_CiteULike.py                                       
     -- Refiner                   : python _01_02_DMCIRPlus_main_CiteULike.py
-  - ML25M 
+  - ML25M
+  - 
     -- Diffusion based generator : python _02_01_DMCIR_main__tr_ML25M.py                                       
     -- Refiner                   : python _02_02_DMCIRPlus_main_ML25M.py
 
