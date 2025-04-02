@@ -8,6 +8,7 @@ Required Packages: numpy, tqdm, pandas, scipy
 
 Run : move to src diretory, and 
   - CiteULike :
+    
     -- Diffusion based generator : python _01_01_DMCIR_main__tr_CiteULike.py                                       
     -- Refiner                   : python _01_02_DMCIRPlus_main_CiteULike.py
   - ML25M 
